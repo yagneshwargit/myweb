@@ -9,4 +9,5 @@ rds
 route53
 cloudwatch
 asg
+git
 elb
